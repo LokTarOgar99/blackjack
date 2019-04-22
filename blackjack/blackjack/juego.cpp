@@ -1,12 +1,12 @@
 // juego.cpp
-// Definición de la clase Juego
+// DefiniciÃ³n de la clase Juego
 
 #include "juego.h"
 
 Juego::Juego() : listaJugadores(nullptr), baraja(nullptr) { }
 
 Juego::~Juego() { }
-
+//jeje
 void Juego::run() {
 	//intro();
 	menuPrincipal();
